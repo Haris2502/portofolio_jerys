@@ -15,7 +15,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
-        server: jerryyss.my.id
+        server: 151.243.222.70
         username: portofolio@jerryyss.my.id
         password: 250207
         exclude: |
