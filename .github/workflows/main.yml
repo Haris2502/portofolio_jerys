@@ -15,7 +15,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
-        server: /home/jerryyss/domains/portofolio.jerryyss.my.id/public_html
+        server: portofolio.jerryyss.my.id
         username: portofolio@jerryyss.my.id
         password: 250207
         exclude: |
